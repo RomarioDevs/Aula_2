@@ -20,7 +20,10 @@ const buttonStyle ={
 
 const h1 = {
      fontSize: "80px",
-     color: "#FFFFFF"
+     color: "#FFFFFF",
+     fontFamily: "Jaro",
+     fontWeight: "400",
+     fontStyle: "normal",
 }
 
 export{ bodyStyles ,buttonStyle, h1};
